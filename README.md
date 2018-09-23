@@ -7,7 +7,7 @@
 
 
 Features include:
-1) StackSort - stable sorting algorithm for stacks, using only stacks
+1) StackSort - stable sorting algorithm for stacks, by stacks
 2) Reverse - For when you accidently build a pyramid upside-down
 3) Print & Reverse Print - Might be helpful when playing poker
 4) Size & IsEmpty - How large is this stack of money
